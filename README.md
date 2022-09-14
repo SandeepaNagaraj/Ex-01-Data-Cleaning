@@ -40,4 +40,20 @@ df.isnull().sum()
 ```
  
 # OUTPUT:
+![image](https://user-images.githubusercontent.com/113017853/190085557-810d3d45-503b-4fe7-a1bc-d0e6fa18f2da.png)
 
+![image](https://user-images.githubusercontent.com/113017853/190085599-8ee1fd70-9381-4307-972f-8e480488b6d0.png)
+
+![image](https://user-images.githubusercontent.com/113017853/190085648-3703b56d-bd84-44e9-9cc5-489dd5c748d3.png)
+
+![image](https://user-images.githubusercontent.com/113017853/190085718-a76aee47-7dda-4dae-91f4-a3ea69630d7b.png)
+
+![image](https://user-images.githubusercontent.com/113017853/190085773-afbf9a0a-5c6a-4710-80ff-19b2dc3ac729.png)
+
+![image](https://user-images.githubusercontent.com/113017853/190085860-ba59732c-6af9-4910-bdf3-0302fa717f6b.png)
+
+![image](https://user-images.githubusercontent.com/113017853/190085921-7a3d9efa-f14f-41da-b9d8-d36c44e6aa99.png)
+
+##RESULT:
+
+Hence the given data is read and perform data cleaning and save the cleaned data to a file.
